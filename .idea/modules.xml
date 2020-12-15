@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/fake-name-generator.iml" filepath="$PROJECT_DIR$/.idea/fake-name-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/countdown-timer.iml" filepath="$PROJECT_DIR$/.idea/countdown-timer.iml" />
     </modules>
   </component>
 </project>
