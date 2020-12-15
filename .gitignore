@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+src/setupTests.js
+
+.idea/fake-name-generator.iml
