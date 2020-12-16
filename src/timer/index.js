@@ -41,7 +41,9 @@ const Timer = () => {
           </SpecialContainer>
           <SpecialContainer>
             <Box>
-              <CardContainer>{seconds}</CardContainer>
+              <CardContainer>
+                <span>{seconds}</span>
+              </CardContainer>
               <p>seconds</p>
             </Box>
           </SpecialContainer>
