@@ -79,6 +79,20 @@ export const CardContainer = styled.div`
   color: #fb6087;
   font-size: 66px;
   z-index: 0;
+  span {
+    animation: pulsing 1s infinite;
+    @keyframes pulsing {
+      0% {
+        transform: scale(1, 1);
+      }
+      50% {
+        transform: scale(1.1, 1.1);
+      }
+      100% {
+        transform: scale(1, 1);
+      }
+    }
+  }
 
   &:after,
   &:before {
