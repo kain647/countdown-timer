@@ -141,6 +141,7 @@ export const FooterImage = styled.img`
 export const Attribution = styled.div`
   display: flex;
   position: fixed;
+  align-items: center;
   justify-content: center;
   bottom: 0;
   padding: 20px;
@@ -151,6 +152,7 @@ export const Attribution = styled.div`
     color: #8486a9;
   }
   a {
-    color: #3e52a3;
+    color: #8486a9;
+    text-decoration: none;
   }
 `;
