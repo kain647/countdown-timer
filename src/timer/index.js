@@ -55,7 +55,7 @@ const Timer = () => {
       <Attribution>
         <span>Coded by</span>
         <a href="http://bit.ly/2JWko6l" target="_blank">
-          kain
+          Aleksey Amelchenko
         </a>
       </Attribution>
     </Container>
