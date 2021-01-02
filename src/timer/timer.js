@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 
 function getTime() {
     var newDate = new Date();
-    var achiveDate = new Date(2021,0,1,0,0,0);
+    var achiveDate = new Date(2022,0,1,0,0,0);
     var t = (achiveDate - newDate)+1000;
     if (t < 0) {
         var elmnt = document.getElementById('timer');
