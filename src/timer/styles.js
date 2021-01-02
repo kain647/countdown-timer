@@ -99,7 +99,7 @@ export const CardContainer = styled.div`
     content: "";
     display: block;
     position: absolute;
-    width: 100%;
+    width: 120%;
     height: 49%;
     z-index: -1;
     border-radius: 5px;
